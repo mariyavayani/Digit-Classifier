@@ -3,7 +3,7 @@
 A machine learning web app that classifies handwritten digits (0–9) using 
 a Logistic Regression model trained on the scikit-learn digits dataset.
 
-**Live demo:** 
+**Live demo:**  https://digit-classifier-mv.streamlit.app/
 
 ## How It Works
 - Trains on 1,437 labeled 8x8 pixel images of handwritten digits
